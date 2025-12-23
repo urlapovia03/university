@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: calculatorKVN
+Version: 1.0.0
+Summary: Учебный пакет с математическими функциями
+Home-page: https://github.com/yourusername/calculator
+Author: Ivan Urlapov
+Author-email: urlapovivan03@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary
+
+# calculator_python
+Package calculator python
